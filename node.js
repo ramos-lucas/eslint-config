@@ -23,10 +23,9 @@ module.exports = {
         bracketSpacing: true,
         tabWidth: 2,
         singleQuote: true,
-        singleQuote: true,
         trailingComma: "all",
         arrowParens: "always",
-        semi: false,
+        endOfLine: 'auto'
       },
     ],
     "@typescript-eslint/no-unused-vars": [
