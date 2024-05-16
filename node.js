@@ -53,6 +53,7 @@ module.exports = {
         ignoreDeclarationSort: true,
       },
     ],
+    "no-useless-constructor": "off"
   },
   settings: {
     "import/parsers": {
